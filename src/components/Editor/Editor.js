@@ -480,6 +480,7 @@ function Editor(props) {
         break;
       }
       default:
+        return null;
     }
   };
 

@@ -6,8 +6,9 @@
   align-items: center;
   justify-content: space-evenly;
   gap: 30px;
-  background-color: rgb(238, 252, 255);
-  min-height: 85vh;
+  /* background-color: rgb(238, 252, 255); */
+  background-image: linear-gradient(to right, #f9e7fe, #Dafcfc);
+  min-height: 100vh;
 }
 
 .heading {
